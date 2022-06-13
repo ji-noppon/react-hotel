@@ -7,7 +7,7 @@ type Props = {}
 
 const Contact = (props: Props) => {
   return (
-    <div>
+    <div className='bg'>
       <br />
       <h2>Contact</h2>
       <br />

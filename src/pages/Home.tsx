@@ -1,6 +1,6 @@
 import React from 'react'
 import { Card, Button, Carousel, Image , Container, Col, Row} from 'react-bootstrap'
-import User from './User'
+import User from './Hotel'
 import logo from '../images/galaxy.jpg'; 
 type Props = {}
 
